@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/mhdafs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="afsalafs8008@gmail.com" target="_blank">
+  <a href="mailto:afsalafs8008@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=eb4235&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=%2B916235448008&text&type=phone_number&app_absent=0" target="_blank">
