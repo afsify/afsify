@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/krdljrxsnrdu8djrh4fq.gif"  />
+  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/krdljrxsnrdu8djrh4fq.gif"  />
 </div>
 
 ###
