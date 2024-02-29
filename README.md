@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mhdafs" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:afsalafs8008@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhdafs/mhdafs/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/afsify/afsify/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
