@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/krdljrxsnrdu8djrh4fq.gif"  />
+  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1704037227/other/krdljrxsnrdu8djrh4fq.gif"  />
 </div>
 
 ###
@@ -14,31 +14,37 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/i64rmfnia73beube4slc.png" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://res.cloudinary.com/afsify/image/upload/v1704037227/other/i64rmfnia73beube4slc.png" height="30" alt="tailwindcss"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037226/GitHub/ppbv2xetqvp0fzyf9xm0.png" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037225/GitHub/bdbrqljncfgbouao4mq7.png" height="30" alt="socketio logo"  />
+  <img src="https://res.cloudinary.com/afsify/image/upload/v1704037226/other/ppbv2xetqvp0fzyf9xm0.png" height="30" alt="express"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/afsify/image/upload/v1704037225/other/bdbrqljncfgbouao4mq7.png" height="30" alt="socketio"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -47,14 +53,20 @@
 ###
 
 <div align="center">
+  <a href="mailto:afsify.in@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=eb4235&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
+  </a>
   <a href="https://www.linkedin.com/in/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
   </a>
-  <a href="mailto:afsalafs8008@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=eb4235&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://youtube.com/@codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube"  />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B916235448008&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=24d367&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://medium.com/@afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium"  />
+  </a>
+  <a href="https://instagram.com/codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"  />
   </a>
 </div>
 
