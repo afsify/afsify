@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsify&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsify&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsify&hide_rank=false&show_icons=true&include_all_commits=true&card_width=530&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsify&locale=en&hide_title=false&layout=compact&card_width=430&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/afsify/image/upload/v1704037227/other/i64rmfnia73beube4slc.png" height="30" alt="tailwindcss"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"  />
   <img width="12" />
@@ -54,19 +52,23 @@
 
 <div align="center">
   <a href="mailto:afsify.in@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=eb4235&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
+    
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail"  />
   </a>
   <a href="https://www.linkedin.com/in/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
-  </a>
-  <a href="https://youtube.com/@codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin"  />
   </a>
   <a href="https://medium.com/@afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="35" alt="medium"  />
+  </a>
+  <a href="https://youtube.com/@codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube"  />
   </a>
   <a href="https://instagram.com/codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram"  />
+  </a>
+  <a href="https://buymeacoffee.com/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="buy me a coffee" />
   </a>
 </div>
 
