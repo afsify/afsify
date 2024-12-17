@@ -7,7 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsify&hide_rank=false&show_icons=true&include_all_commits=true&card_width=530&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?
+  <img src="https://github-readme-stats.vercel.app/api?username=afsify&hide_title=false&hide_rank=false&show_icons=true&card_width=500&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsify&locale=en&hide_title=false&layout=compact&card_width=430&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
