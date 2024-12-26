@@ -64,7 +64,7 @@
   <a href="https://youtube.com/@codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube"  />
   </a>
-  <a href="https://instagram.com/codisify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="https://instagram.com/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram"  />
   </a>
   <a href="https://buymeacoffee.com/afsify" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
