@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:afsify.in@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="mailto:afsify2000@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail"  />
   </a>
