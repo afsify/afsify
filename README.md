@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1704037227/other/krdljrxsnrdu8djrh4fq.gif"  />
+  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1740908749/other/github.banner.gif"  />
 </div>
 
 ###
