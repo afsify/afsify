@@ -20,7 +20,7 @@
 <h2 align="center">My Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 20px auto;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb,postgres,socketio,git,figma,canva&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb,postgres,git,github,figma,postman&perline=8" alt="Skills" />
 </div>
 
 ###
