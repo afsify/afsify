@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afzal;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afsal;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 20px auto;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb,postgres,socketio,git,figma,canva&perline=8" alt="Skills" />
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px auto;">
   <a href="mailto:afsify2000@gmail.com" target="_blank">
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="center">🔥 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsify&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="90%" />
