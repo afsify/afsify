@@ -17,15 +17,11 @@
 
 ###
 
-<h2 align="center">My Tech Stack</h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 20px auto;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb,postgres,git,github,figma,postman&perline=8" alt="Skills" />
 </div>
 
 ###
-
-<h2 align="center">Connect With Me</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px auto;">
   <a href="mailto:afsify2000@gmail.com" target="_blank">
@@ -46,14 +42,9 @@
   <a href="https://buymeacoffee.com/afsify" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://github.com/afsify" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ###
-
-<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsify&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="90%" />
