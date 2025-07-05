@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afsal;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1740908749/other/github.banner.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1740908749/other/github.banner.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afsify;Full+Stack+Developer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ###
