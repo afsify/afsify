@@ -57,7 +57,6 @@ such as shops, clinics, salons, service businesses, and small offices.
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [EkaVio](https://github.com/afsify/ekavio) | Multi-tenant SaaS architecture, RBAC, secure sessions, PostgreSQL/MongoDB, Docker | React, TypeScript, Node.js, PostgreSQL, MongoDB |
-| [Expenseer](https://github.com/afsify/expenseer-tracker) | Expense tracking, budgeting, authentication and analytics | React, Redux Toolkit, Node.js, MongoDB |
 | [Codisify Devlearn](https://github.com/afsify/codisify-devlearn) | Learning platform, authentication, courses and realtime communication | React, Redux, Node.js, MongoDB, Socket.IO |
 | [Chateph Messenger](https://github.com/afsify/chateph-messenger) | Real-time ephemeral messaging | React, Node.js, MongoDB, Socket.IO |
 | [Taskent Dashboard](https://github.com/afsify/taskent-dashboard) | Dashboard UI, user/task management and data visualization | React, Redux, Tailwind CSS, Chart.js |
