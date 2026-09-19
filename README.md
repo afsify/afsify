@@ -1,61 +1,88 @@
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/afsify/image/upload/v1740908749/other/github.banner.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+# Hi, I'm Muhammed Afsal 👋
+
+### Frontend Developer @ Bizforz · Full Stack Web Developer
+
+React.js · TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · PostgreSQL · MongoDB
+
+[LinkedIn](https://www.linkedin.com/in/afsify) ·
+[Portfolio](https://solo.to/afsify) ·
+[Email](mailto:afsify2000@gmail.com)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afsify;Full+Stack+Developer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+## About Me
 
-###
+I'm a Frontend Developer at **Bizforz**, working on production ERP, ticketing,
+hospitality, and institutional applications.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsify&hide_title=false&hide_rank=false&show_icons=true&card_width=500&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsify&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+My professional work includes building React interfaces, integrating REST APIs,
+debugging production issues, improving UI/UX, collaborating with backend and
+product teams, and participating in client requirement discussions, demos,
+testing, and UAT.
 
-###
+Alongside frontend development, I work with **Node.js, Express.js, PostgreSQL,
+MongoDB, authentication, authorization, Docker, and multi-tenant application
+architecture**.
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 20px auto;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb,postgres,git,github,figma,postman&perline=8" alt="Skills" />
-</div>
+---
 
-###
+## Currently Building — EkaVio
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px auto;">
-  <a href="mailto:afsify2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/afsify" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@afsify" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://youtube.com/@codisify" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/afsify" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://buymeacoffee.com/afsify" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
+**EkaVio** is a multi-tenant SMB operations platform designed for businesses
+such as shops, clinics, salons, service businesses, and small offices.
 
-###
+### Engineering highlights
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsify&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="90%" />
-</div>
+- Multi-tenant organization and branch architecture
+- Secure authentication and revocable server-side sessions
+- Role-based authorization and permission enforcement
+- PostgreSQL-backed identity and commercial state
+- MongoDB operational persistence
+- Subscription and entitlement architecture
+- Docker Compose development environment
+- Database migrations, health checks, and automated quality gates
 
-###
+**Stack:** React · TypeScript · Vite · Node.js · Express.js · PostgreSQL · MongoDB · Docker
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/afsify/afsify/output/snake.svg" alt="Snake animation" />
-</div>
+[View EkaVio →](https://github.com/afsify/ekavio)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afsify&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile Views" />
-</div>
+---
+
+## Selected Projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [EkaVio](https://github.com/afsify/ekavio) | Multi-tenant SaaS architecture, RBAC, secure sessions, PostgreSQL/MongoDB, Docker | React, TypeScript, Node.js, PostgreSQL, MongoDB |
+| [Expenseer](https://github.com/afsify/expenseer-tracker) | Expense tracking, budgeting, authentication and analytics | React, Redux Toolkit, Node.js, MongoDB |
+| [Codisify Devlearn](https://github.com/afsify/codisify-devlearn) | Learning platform, authentication, courses and realtime communication | React, Redux, Node.js, MongoDB, Socket.IO |
+| [Chateph Messenger](https://github.com/afsify/chateph-messenger) | Real-time ephemeral messaging | React, Node.js, MongoDB, Socket.IO |
+| [Taskent Dashboard](https://github.com/afsify/taskent-dashboard) | Dashboard UI, user/task management and data visualization | React, Redux, Tailwind CSS, Chart.js |
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS · HTML · CSS
+
+**Backend**  
+Node.js · Express.js · REST APIs · Socket.IO · JWT / Session Authentication
+
+**Databases**  
+PostgreSQL · MongoDB
+
+**Tools & Platform**  
+Git · GitHub · Docker · Postman · Vite · Figma
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/afsify](https://www.linkedin.com/in/afsify)
+- GitHub: [github.com/afsify](https://github.com/afsify)
+- Portfolio: [solo.to/afsify](https://solo.to/afsify)
+- Email: [afsify2000@gmail.com](mailto:afsify2000@gmail.com)
