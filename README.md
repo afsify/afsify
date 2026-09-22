@@ -7,8 +7,8 @@
 React.js · TypeScript · Next.js · Redux Toolkit · Node.js · Express.js · PostgreSQL · MongoDB
 
 [LinkedIn](https://www.linkedin.com/in/afsify) ·
-[Portfolio](https://www.afsify.com) ·
-[Email](mailto:afsify2000@gmail.com)
+[Email](mailto:afsify2000@gmail.com) ·
+[afsify.com](https://www.afsify.com)
 
 </div>
 
